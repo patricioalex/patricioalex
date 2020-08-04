@@ -1,3 +1,3 @@
 <h1>Patrício Alex</h1>
 <hr>
-<i class="fab fa-linkedin"></i>
+<i class="fab fa-linkedin" style="color: black;"></i>
