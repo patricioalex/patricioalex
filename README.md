@@ -1,4 +1,4 @@
-# Patrío Alex
+# Patrício Alex
 ### Olá! Esse é meu perfil do Github. Seja bem vindo.
 
 Me expandindo como Desenvolvedor Full Stack.
