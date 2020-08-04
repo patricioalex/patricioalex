@@ -4,7 +4,7 @@
 Me expandindo como Desenvolvedor Full Stack.
  * Estudando NodeJs( ExpressJs, JWT, Socket IO,  MongoDB, TDD, JavaScript Avançado )
  
-Conhecimentos atualmentes
+Conhecimento atualmente
 * Laravel
 * VueJs
 * HTML
