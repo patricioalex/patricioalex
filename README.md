@@ -3,6 +3,7 @@
 
 Me expandindo como Desenvolvedor Full Stack.
  * Estudando NodeJs( ExpressJs, JWT, Socket IO,  MongoDB, TDD, JavaScript Avançado )
+ * Estudando e criando meu primeiro app com Vue Native 
  
 Conhecimento atualmente
 * PHP
