@@ -7,6 +7,7 @@ Me expandindo como Desenvolvedor Full Stack.
  
 Conhecimento atualmente
 * PHP
+* JavaScript
 * Laravel
 * VueJs
 * HTML
