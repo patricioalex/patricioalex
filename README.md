@@ -8,7 +8,6 @@
 Conhecimentos atualmente
 * PHP - Intermédiario (Estudando)
 * JavaScript - Estudando
-* Python - Estudando
 * Laravel - Intermédiario
 * VueJs - Básico
 * HTML - Básico
