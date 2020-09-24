@@ -1,7 +1,8 @@
 # Patrício Alex
 ### Olá! Esse é meu perfil do Github. Seja bem vindo.
 
- *O meu foco é mais o Backend, pórem, tenho conhecimentos básicos em frameworks Frontend. Nada me impede de me aprofundar em outros frameworks*
+ *O meu foco é mais o Backend, pórem, tenho conhecimentos básicos em frameworks Frontend. Nada impede de me aprofundar em outros frameworks, sendo esse um oportunidade de aprofundar em conhecimentos que nunca é demais.*
+ 
  * Estudando NodeJs( Passport, JWT, MongoDB, JavaScript Avançado )
  * Estudando e criando meu primeiro app com Vue Native e NativeScript
  
