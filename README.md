@@ -3,7 +3,7 @@
 
  *O meu foco é mais o Backend, pórem, tenho conhecimentos básicos em frameworks Frontend. Nada impede de me aprofundar em outros frameworks, sendo esse um oportunidade de aprofundar em conhecimentos que nunca é demais.*
  
- * Estudando NodeJs( Passport, JWT, MongoDB, JavaScript Avançado )
+ * Estudando NodeJs(Express, Socket.IO, Passport, JWT, MongoDB, JavaScript Avançado )
  * Estudando e criando meu primeiro app com Vue Native e NativeScript
  
 Conhecimentos atualmente
@@ -14,7 +14,7 @@ Conhecimentos atualmente
 * HTML - Básico
 * CSS - Básico
 * MongoDB - Estudando
-* Postgres - Estudando
+* Postgres 
 * MySQL - Estudando
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patricioalex96@gmail.com)](mailto:patricioalex96@gmail.com)
