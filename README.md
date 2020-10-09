@@ -11,6 +11,7 @@ Conhecimentos atualmente
 * JavaScript - Estudando
 * Laravel - Intermédiario
 * VueJs - Básico
+* Bootstrap - Intermédiario
 * HTML - Básico
 * CSS - Básico
 * MongoDB - Estudando
