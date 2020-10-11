@@ -4,16 +4,15 @@
  *O meu foco é mais o Backend, pórem, tenho conhecimentos básicos em frameworks de Frontend. Nada impede de me aprofundar em outros frameworks, sendo essa uma oportunidade de conhecer cada vez mais.*
  
  * Estudando NodeJs(Express, Socket.IO, Passport, JWT, MongoDB, JavaScript Avançado )
- * Aprimorando em Laravel com Vue e JWT. (Criando meu site usando essas tecnologias)
   
 Conhecimentos atualmente
-* PHP - Estudando
+* PHP 
 * JavaScript - Estudando
-* Laravel - Intermédiario
-* VueJs - Básico
-* Bootstrap - Intermédiario
-* HTML - Básico
-* CSS - Básico
+* Laravel 
+* VueJs - Estudando
+* Bootstrap 
+* HTML 
+* CSS 
 * MongoDB - Estudando
 * Postgres 
 * MySQL 
