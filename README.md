@@ -1,21 +1,20 @@
 # Patrício Alex
 ### Olá! Esse é meu perfil do Github. Seja bem vindo.
 
- *Gosto do Backend, pórem, tenho conhecimentos básicos em frameworks de Frontend. Nada impede de me aprofundar em outros frameworks, sendo essa uma oportunidade de conhecer cada vez mais.*
- 
- * Estudando NodeJs(Express, Socket.IO, Passport, JWT, MongoDB, JavaScript Avançado )
+ *Estou em busca de constante aprendizado, a cada projeto eu me desenvolvo profissionalmente.*
+
   
 Conhecimentos atualmente
 * PHP 
-* JavaScript - Estudando
+* JavaScript 
 * Laravel 
-* VueJs - Estudando
+* VueJs
 * Bootstrap 
 * HTML 
 * CSS 
-* MongoDB - Estudando
 * Postgres 
 * MySQL 
+* API's 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patricioalex96@gmail.com)](mailto:patricioalex96@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patr%C3%ADcio-alex-219279118/)](https://www.linkedin.com/in/patr%C3%ADcio-alex-219279118/)
