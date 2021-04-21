@@ -22,7 +22,7 @@ Conhecimentos atualmente
 
 # Empreendedorismo
 <p align="center">
-  <a href="https://devopsstudio.com.br" target="_blank">
+  <a href="https://devopsstudio.com.br/" target="_blank">
       <img src="https://user-images.githubusercontent.com/46056058/115574331-e921cd00-a297-11eb-9b38-6c5db44cf9a9.png" />
   </a>
 </p>
