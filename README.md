@@ -37,5 +37,5 @@ Conhecimentos atualmente
 *Oferecemos soluções e recursos digitais  customizáveis, atendendo a sua necessidade e do seu cliente.*
 
 
-**Obersavação:** o site é o meu Portfólio em produção, onde irei oferecer soluções digitais.
+**Observação:** o site é o meu Portfólio em produção, onde irei oferecer soluções digitais.
 
