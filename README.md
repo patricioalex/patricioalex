@@ -1,7 +1,7 @@
 # Patrício Alex
 ### Olá! Esse é o meu perfil do Github. Seja bem-vindo.
 
- *Estou em busca de constante aprendizado, a cada projeto me desenvolvo profissionalmente.*
+ *Estou em busca de constante aprendizado. A cada desafio me desenvolvo profissionalmente.*
 
   
 Conhecimentos atualmente
