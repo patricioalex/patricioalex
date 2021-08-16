@@ -8,7 +8,8 @@ Conhecimentos atualmente
 * PHP 
 * JavaScript 
 * Laravel 
-* VueJs
+* Nuxt.js
+* Vue.js
 * Bootstrap 
 * HTML 
 * CSS 
