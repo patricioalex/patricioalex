@@ -9,12 +9,8 @@ Conhecimentos atualmente
 * JavaScript
 * Typescript
 * Laravel 
-* Nuxt.js
+* React native
 * Vue.js
-* Quasar.js
-* Bootstrap 
-* HTML 
-* CSS 
 * Postgres 
 * MySQL 
 * API's
