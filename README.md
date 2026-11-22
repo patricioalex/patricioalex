@@ -8,14 +8,21 @@
 
  *Back end*
  
-[![My Skills](https://skillicons.dev/icons?i=php,ts,js,nodejs,laravel,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,ts,js,nodejs,laravel,symfony,next)](https://skillicons.dev)
 
 Front end:
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,cs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,nuxtjs,cs,html,cssjquery,bootstrap,bunyearn,npm)](https://skillicons.dev)
 
-## Estudando
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,next)](https://skillicons.dev)
+Devops:
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,bash,nginx,kubernetes,docker,git,github,bitbucket,cloudflare)](https://skillicons.dev)
+
+## Studying
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,next,angular,prisma,drizzle,vitest,jest&perline=3)](https://skillicons.dev)
+
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patricioascaetano@gmail.com)](mailto:patricioalex96@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patricioalex/)](https://www.linkedin.com/in/patricioalex/)
  
