@@ -16,8 +16,8 @@ Conhecimentos atualmente
 * API's
 * AWS
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patricioalex96@gmail.com)](mailto:patricioalex96@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patr%C3%ADcio-alex-219279118/)](https://www.linkedin.com/in/patr%C3%ADcio-alex-219279118/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patricioascaetano@gmail.com)](mailto:patricioalex96@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patricioalex/)](https://www.linkedin.com/in/patricioalex/)
  
 
 
