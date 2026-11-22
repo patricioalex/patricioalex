@@ -24,7 +24,7 @@
 
 # Studying
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,next,angular,prisma,vitest,jest,kafka,mongodb&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,next,angular,prisma,vitest,jest,kafka,mongodb)](https://skillicons.dev)
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patricioascaetano@gmail.com)](mailto:patricioalex96@gmail.com)
