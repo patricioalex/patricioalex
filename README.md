@@ -4,17 +4,9 @@
  *Estou em busca de constante aprendizado. A cada desafio me desenvolvo profissionalmente.*
 
   
-Conhecimentos atualmente
-* PHP 
-* JavaScript
-* Typescript
-* Laravel 
-* React native
-* Vue.js
-* Postgres 
-* MySQL 
-* API's
-* AWS
+Main skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patricioascaetano@gmail.com)](mailto:patricioalex96@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patricioalex/)](https://www.linkedin.com/in/patricioalex/)
