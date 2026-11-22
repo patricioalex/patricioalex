@@ -4,25 +4,25 @@
  *Estou em busca de constante aprendizado. A cada desafio me desenvolvo profissionalmente.*
 
   
-### Main skills
+# Main skills
 
- *Back end*
+### Back end:
  
 [![My Skills](https://skillicons.dev/icons?i=php,ts,js,nodejs,laravel,symfony,next)](https://skillicons.dev)
 
-Front end:
+### Front end:
 
 [![My Skills](https://skillicons.dev/icons?i=vue,react,nuxtjs,pinia,html,css,jquery,bootstrap,tailwind,bun,yarn,npm)](https://skillicons.dev)
 
-DB SQL:
+### DB SQL:
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
-Devops:
+### Devops:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,bash,terraform,nginx,kubernetes,docker,git,github,bitbucket,cloudflare)](https://skillicons.dev)
 
-## Studying
+# Studying
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,next,angular,prisma,vitest,jest,kafka,mongodb&perline=3)](https://skillicons.dev)
 
