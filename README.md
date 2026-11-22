@@ -3,7 +3,7 @@
 
 **Desenvolvedor Full-Stack | PHP (Laravel) • TypeScript • Node.js • Vue.js / React**
 
-Sou desenvolvedor de software com sólida experiência na construção, modernização e manutenção de aplicações web escaláveis, APIs RESTful e arquiteturas orientadas a boas práticas de código e infraestrutura. Pós-graduado em **Cloud Computing**[cite: 1], integro o desenvolvimento backend e frontend com práticas de DevOps, conteinerização e automação de pipelines em ambientes **AWS** e **Azure**[cite: 1].
+Sou desenvolvedor de software com sólida experiência na construção, modernização e manutenção de aplicações web escaláveis, APIs RESTful e arquiteturas orientadas a boas práticas de código e infraestrutura. Pós-graduado em **Cloud Computing**, integro o desenvolvimento backend e frontend com práticas de DevOps, conteinerização e automação de pipelines em ambientes **AWS** e **Azure**.
 
 Atualmente, estou expandindo meu portfólio com soluções ponta a ponta no ecossistema **TypeScript**, desenvolvendo APIs estruturadas em **Node.js (Express)** com testes unitários, interfaces web em **Angular** e aplicativos mobile com **React Native (Expo)**.
 
